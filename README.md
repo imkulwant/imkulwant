@@ -3,20 +3,20 @@
          height="45"
          width="45" /> I'm Kulwant Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imkulwant&label=Views&color=blue&style=plastic&style=for-the-badge" alt="imkulwant" /> </p>
-
-<!-- 
-# 💫 About Me :
-- 🔭 I’m currently building [XYZ](https://xyz/).
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/).
--->
-
-## 🌐 Socials
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imkulwant)
 
+</div>
+
+
 
 <!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imkulwant&label=Views&color=blue&style=plastic&style=for-the-badge" alt="imkulwant" /> </p>
+# 💫 About Me :
+- 🔭 I’m currently building [XYZ](https://xyz/).
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/).
+
 ## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -62,16 +62,16 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 -->
-
-## 📈 Activity Graph
+<div align="center">
+<h3> 📈 Activity Graph </h3>
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=imkulwant&theme=minimal"/>
 </p>
+</div>
 
+<div align="center">
+<h3> 📟 GitHub Stats </h3>
 
-
-
-## 📟 GitHub Stats
 <p align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imkulwant&theme=vue"/>
 </p>
@@ -79,13 +79,14 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imkulwant&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imkulwant&theme=vue" />
 </p>
-
+</div>
 <!-- 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 -->
 
----
-[![](https://visitcount.itsvg.in/api?id=imkulwant&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
 
+[![](https://visitcount.itsvg.in/api?id=imkulwant&icon=0&color=1)](https://visitcount.itsvg.in)
+</div>
 
