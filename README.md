@@ -63,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 -->
 <div align="center">
-<h3> 📈 Activity Graph </h3>
+
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=imkulwant&theme=minimal"/>
 </p>
