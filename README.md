@@ -22,6 +22,24 @@ Seasoned Software Engineer with 9+ years of experience across Gaming, Hospitalit
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imkulwant&theme=vue"/>
 </p>
 
+
+<br/>
+
+<h3 align="center">Education</h3>
+
+<div>
+<p>
+    <img width="100px" align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png/180px-Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png">
+</p>
+
+<p>
+ <b>Uttar Pradesh Technical University, India</b><br>
+ <i>Bachelor of Technology in Computer Science & Engineering</i><br>
+ August 2010 — July 2014
+</p>
+</div>
+
+<br/>
 <br/>
 
 <div align="center">
